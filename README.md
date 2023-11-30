@@ -1,0 +1,2 @@
+# projekt
+zadanie lekcje python
